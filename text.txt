@@ -1,0 +1,1 @@
+ho creato questo file per fare l'esercizio numero 3 del libro, voglio contare quanti spazi ci sono in questa frase:(sono 20)
