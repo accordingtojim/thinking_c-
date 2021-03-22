@@ -21,8 +21,8 @@ int main() {
     }
     //adding the 2 vector in the 3rd one
     for (int i=0;i<25;i++){
-        vector3[i]=vector1[i]+vector2[i];
+        vector3.push_back(vector1[i]+vector2[i]);
     print(vector2);
     print(vector1);
     print(vector3);
-    }
+    }}
