@@ -5,10 +5,11 @@
 using namespace std;
 int main() {
     vector<string> myvector;
-    string word;
+    string line;
     ifstream in("text.txt");
-    while (in>>word){
-        cout<<word<<endl;
-        cin;
+    while (getline(in,line)){
+        cout<<line<<endl;
+        cin.get();
     }
 }
+//version to print lines
