@@ -1,1 +1,4 @@
-ho creato questo file per fare l'esercizio numero 3 del libro, voglio contare quanti spazi ci sono in questa frase:(sono 20)
+ho creato questo file per fare l'esercizio numero 3 del libro, voglio contare quanti spazi ci sono in questa frase:(sono
+20) e voglio provare a separare le righe
+tra di
+loro
